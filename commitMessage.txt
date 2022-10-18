@@ -1,0 +1,28 @@
+Targets set.
+
+Completed :
+
+- Switchboard model.
+
+Pending tasks :
+
+- Modeling of all objects
+
+    - board & marker [Sanjana]
+    - doors [Sriram]
+    - switchboards [Sriram]
+    - laptops
+    - doors
+    - tables [Shruthi]
+    - chairs [Shruthi]
+    - sculptures
+    - posters
+    - craftworks : jellyfish [Sriram]
+    - elevator doors 
+    - elevator buttons
+
+- Texture mapping
+- Model import to unity
+- First person controller
+- Object interaction (joystick, XR, mobile touch based)
+- Sound effects
