@@ -1,8 +1,8 @@
-Work breakdown structure in commits.
+Teams merged. Review all objects and assign.
 
 Completed :
 
-- Switchboard model
+- 
 
 Pending tasks :
 
