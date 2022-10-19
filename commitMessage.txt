@@ -1,29 +1,32 @@
-Targets set.
+Work breakdown structure in commits.
 
 Completed :
 
-- Switchboard model.
+- Switchboard model
 
 Pending tasks :
 
-- Modeling of all objects
+- Modeling of all objects [IN PROGRESS]
 
-    - floor plan [Sriram]
     - board & marker [Sanjana][DONE]
-    - doors [Sriram]
-    - switchboards [Sriram] [DONE]
-    - laptops
-    - doors
+    - posters [Sanjana]
+    - laptops [Sanjana]
+    - desktops [Sanjana]
+
     - tables [Shruthi] [DONE]
     - chairs [Shruthi] 
-    - sculptures
-    - posters
-    - craftworks : jellyfish [Shruthi]
-    - elevator doors 
-    - elevator buttons
+    - jellyfish craftwork [Shruthi]
 
-- Texture mapping
-- Model import to unity
-- First person controller
-- Object interaction (joystick, XR, mobile touch based)
-- Sound effects
+    - switchboards [Sriram] [DONE]
+    - doors [Sriram]
+
+    - elevator doors [UNASSIGNED]
+    - elevator buttons [UNASSIGNED]
+    - floor plan [UNASSIGNED]
+    - sculptures [UNASSIGNED, AMBIGUOUS]
+
+- Texture mapping [UNASSIGNED]
+- Model import to unity [UNASSIGNED]
+- First person controller [UNASSIGNED]
+- Object interaction (joystick, XR, mobile touch based) [UNASSIGNED]
+- Sound effects [UNASSIGNED]
