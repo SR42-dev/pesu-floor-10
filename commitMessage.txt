@@ -8,16 +8,17 @@ Pending tasks :
 
 - Modeling of all objects
 
-    - board & marker [Sanjana]
+    - floor plan [Sriram]
+    - board & marker [Sanjana][DONE]
     - doors [Sriram]
-    - switchboards [Sriram]
+    - switchboards [Sriram] [DONE]
     - laptops
     - doors
-    - tables [Shruthi]
-    - chairs [Shruthi]
+    - tables [Shruthi] [DONE]
+    - chairs [Shruthi] 
     - sculptures
     - posters
-    - craftworks : jellyfish [Sriram]
+    - craftworks : jellyfish [Shruthi]
     - elevator doors 
     - elevator buttons
 
