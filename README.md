@@ -8,6 +8,8 @@ Pending tasks :
     - board & marker [Sanjana][DONE]
     - posters [Sanjana]
     - laptops [Sanjana]
+    - desktops [Sanjana][DONE]
+    - lab tables and chairs [Sanjana][DONE]
 
     - tables [Shruthi] [DONE]
     - fan [Shruthi] [DONE]
@@ -19,7 +21,6 @@ Pending tasks :
 
     - hanging cubes [UNASSIGNED]
     - temple craftwork [UNASSIGNED]
-    - desktops [UNASSIGNED]
     - cupboards [UNASSIGNED]
     - ceiling lights [UNASSIGNED]
     - caterpillar craftwork [UNASSIGNED]
